@@ -1,0 +1,48 @@
+body{
+    background-image: url('rm373batch13-086.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+   
+   
+}
+/* Styles the calculator box */
+.calculator{
+    /* Calculator background color */
+    background-color: antiquewhite ;border: none;
+    /* Inner spacing */
+    padding: 20px;
+    /* Rounded corners */
+    border-radius: 30px;    
+
+}
+button:hover{
+    background-color: blue;
+    color: antiquewhite;
+    transition: 0.5s;
+
+}
+table{
+     width: 300px;
+     height: 400px;
+     border-style:  solid black;
+    
+    
+}
+button{
+    height: 60px;
+    width: 65px;
+    font-size: 20px;
+    border-radius: 30px;
+ 
+
+}
+input{
+    height: 60px;
+    width: 100%;
+    border: none;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 30px;
+}
+
